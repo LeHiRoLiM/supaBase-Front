@@ -78,3 +78,4 @@ async function deleteProduct(id) {
 
 // Fetch all products on page load
 fetchProducts();
+
